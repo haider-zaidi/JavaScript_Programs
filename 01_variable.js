@@ -9,7 +9,7 @@ var b="Good"
     console.log(b)
 }
 console.log(b)
-const name="Haider"
+const name="Hey"
 // name="Abc"  --> Throws an eror bcz const cannot be changed throughout the program.
 let c=null
 let x=undefined
